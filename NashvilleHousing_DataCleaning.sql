@@ -1,3 +1,6 @@
+-- MS SQL Server
+-- T-SQL
+
 SELECT *
 FROM NashvilleHousing
 
@@ -171,3 +174,4 @@ FROM NashvilleHousing
 
 ALTER TABLE NashvilleHousing
 DROP COLUMN PropertyAddress, OwnerAddress, TaxDistrict
+
