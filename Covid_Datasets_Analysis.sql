@@ -1,3 +1,7 @@
+-- SSMS
+-- T-SQL
+
+
 SELECT *
 from Portfolio_Project..Covid_Vaccinations$
 ORDER BY 3,4
@@ -282,3 +286,4 @@ FROM vw_CountryWithMaxDeaths
 SELECT *
 FROM vw_RollingDeathPercentage
 WHERE location LIKE 'Pakistan'
+
